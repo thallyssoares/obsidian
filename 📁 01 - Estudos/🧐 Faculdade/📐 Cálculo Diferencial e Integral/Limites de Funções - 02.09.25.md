@@ -1,0 +1,18 @@
+
+---
+
+tags: [matematica, faculdade, calculo]
+
+---
+
+- Tópico: 
+	Calculo Diferencial e Integral
+
+- O que foi tratado?
+	 Conceitos e definições do que é um limite de uma função
+
+- Resumo com as minhas palavras
+	 De forma simples o limite serve para definir em qual ponto do eixo Y, de um plano cartesiano, a minha função vai atingir ou tem tendência a isso quando o valor no eixo X estiver aproximando do valor alvo que eu definir. Além disso, através do limite conseguimos entender se uma função é continua ou não pois, podemos validar 3 princípios para isso, verificamos se o valor da função existe, depois validamos se o limite da função existe e por fim verificamos se o limite da função é igual ao valor da função, se respondermos sim pros 3, então a função é continua no gráfico. No entanto, como saber qual é o valor da função ou como saber se o limite é igual ao valor da função? De forma simples, o valor da função é o resultado que dá quando, ao definirmos o número alvo que queremos buscar de X, exemplo, X → 10 e substituímos X no cálculo da função, exemplo, uma função f(x) = x / 5, se substituirmos X e resolvermos a função temos o valor dela que é 2, com essa informação, entender se o limite é igual ao valor da função é bem simples. Primeiro, como calcular o limite? Vamos usar um exemplo da vida real como base, supondo que eu tenho uma reta com valores de distâncias em metros e tenho um eixo Y com as velocidades, onde meu f(x), ou a minha função, é 2x, o que significa que o valor de Y é 2 vezes o valor de X e com isso recebemos a seguinte dúvida: "Qual seria a minha velocidade se o meu X fosse 20?" com isso, temos a seguinte fórmula lim x→20 f(x) = 2x, aqui pela fórmula ser bem básica até resolvemos ela direto e entendemos que o meu limite é 40 mas como eu deveria fazer normalmente? No cálculo do limite nós nunca usamos o valor alvo de X, que nesse caso é 20, sempre buscamos chegar o mais próximo do valor para entender de fato esse limite, o que geraria algo como: f(19.9) = 2•19.9 = 39.8 e f(20.1) = 2•20.1 = 40.2, veja que não usamos o X diretamente mas valores próximos, maior ou menor, depois vemos para qual valor ele se aproxima ou direciona, o que nesse caso é o 40, assim, podemos assumir que o limite de x→20  tende a 40 ou segue na direção do 40. A abordagem que fizemos, serve também pra validarmos se o limite existe, visto que se pegarmos um valor menor do que o nosso X alvo e um maior, com os resultados sendo valores muito distantes entre si, significa que não existe limite, essa é uma abordagem que chamamos de verificar o limite pela esquerda e pela direita ou Lim x- e Lim x+. Por fim, como podemos saber que o valor do limite não é o valor da função? É ainda mais simples, ao receber o valor de X e substituir ele diretamente na função, se a sua resolução não resultar em um número real ou valor de verdade, então o valor do limite não é o valor da função, exemplo: f(x) = x² - 1  / x - 1, onde x→1 resultaria em 0/0 o que é impossível de resolver, assim, para resolver essa função e descobrir o limite teríamos que simplificar ela, virando algo como: f(x) = (x - 1)(x + 1) / x - 1, que simplificando se torna: f(x) = x + 1; aí conseguimos calcular o limite. Esse tipo de situação, dizemos que o gráfico não possui limite no valor da função mas que ele tende a limite 2 e que ele não é uma reta continua. Assim, entendemos o que é limite e as suas implicações.
+
+- To do 
+	 

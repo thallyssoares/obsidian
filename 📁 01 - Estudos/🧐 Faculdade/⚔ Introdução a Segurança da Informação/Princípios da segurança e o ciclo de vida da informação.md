@@ -1,0 +1,23 @@
+
+---
+
+tags: [tecnologia, faculdade, cybersec]
+
+---
+
+## 📝 Pontos de Hoje
+
+- **Tópico:**  
+	 Segurança da Informação e seus principios
+
+- **O que foi tratado?**  
+	 Sobre quais são os princípios e o que é a segurança da informação, além da diferença entre dado e informação.
+
+- **Resumo com minhas palavras:**  
+	 Segurança da informação é um tema composto de atividades, processos e metodologias com um único principio: proteger suas informações e dados, seja você uma organização ou um individuo. No entanto, antes de entrarmos mais afundo no tema, precisamos responder uma pergunta: O que é informação e dado? Qual a diferença dos dois pro contexto de segurança da informação. Bom, um dado é apenas um valor sem nenhum contexto, um número solto e que você não consegue extrair muito daquilo, já a informação, ela é o dado contextualizado, a informação pega aquele valor e envolve ela dentro de um cenário que se encaixe e faça sentido. Por exemplo, o valor "R$85" isoladamente é apenas um dado e não significa muito para nós, mas se eu te falar que esse 85 é a valorização MoM de uma ação, agora sim isso te traz algo e você consegue extrair valor, ai temos uma informação. Então, lembre sempre que uma informação só é de fato isso quando algum individuo consegue extrair valor dela. Perfeito, entendemos o que é uma informação mas você sabia que a informação ela possui um ciclo de vida? Assim como a maioria das coisas, a informação possui um processo pelo qual ela deve passar sempre, esse ciclo é composto de 4 grandes partes: "Criação, transporte, manuseio/utilização e descarte" é de extrema importância garantir a integridade e proteção das informações durante todo o ciclo, principalmente no transporte e descarte, partes mais negligenciada em muitos casos e que podem causar sérios problemas. Agora que entendemos que precisamos proteger as informações e como é o ciclo de vida dela, como proteger essa informação? A proteção da informação deve ser baseada em três etapas que constituem o tripé **C.I.D** (Confidencialidade, Integridade e disponibilidade). A confidencialidade deve ser a garantia de que a informação só será acessada por pessoas autorizadas, por exemplo, garantir que um envelope lacrado só seja aberto por pessoas autorizadas. Na integridade, nosso foco é garantir que o conteúdo se mantenha confiável e sem alterações que prejudiquem seu valor, ainda no exemplo do envelope, precisamos garantir que o conteúdo dentro dele se mantenha inalterado em todas as partes do processo, inalterado no sentido de que a mensagem se mantenha a mesma que a pessoa que enviou escreveu. Por fim, a disponibilidade serve para garantirmos que aquela informação seja acessivel a qualquer pessoa autorizada e a qualquer momento porque não adianta de nada ter uma informação útil e importante mas as pessoas que precisam consumir ela não conseguem acessar. Por último, sabemos que a informação possui dois campos, o físico e o digital, como funciona a proteção desses campos? No campo físico, os dados e informações possuem camadas de seguranças espessas e que visam garantir sua proteção, nesses ambientes as primeiras camadas são muros e cercas, logo após temos os postos de segurança dos guardas, chegando perto dos datacenters temos portas trancadas que só abrem por biometria ou outro tipo de segurança além disso, esses espaços devem possuir sistemas de segurança contra situações naturais como incêndios, enchentes, queda de energia ou de internet. No espaço digital, a segurança é nos softwares, usando configurações de firewall, senhas fortes e garantindo a criptografia das informações. Um ponto importante da criptografia, existem dois tipos, que é o de chave única, onde a chave que criptografa também descriptografa e a de chave dupla, onde temos uma chave pública que criptografa e uma privada que descriptografa. Caso não saiba, a criptografia é um processo de código e matemático que visa embaralhar algo de uma maneira que não seja possível, ou não facilmente, descobrir seu valor real. No fim, o objetivo principal da segurança da informação é de fato proteger os dados, não de uma maneira fácil e única mas que exige processos e camadas para garantir essa proteção, entenda que quanto mais camadas, mais complexo fica mas também mais seguro, não existe segurança real sem complexidade
+
+- **To do / Exercícios:** 
+	 Sem to-do
+
+- **Insight:**
+	 Posso usar isso na analise e construção do meu saas.

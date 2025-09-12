@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "69fc60e90119e024",
+    "type": "split",
+    "children": [
+      {
+        "id": "76e8704d7e6091d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e6c6962707aa54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 00 - Rotina/🗃️ Log/08.09.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08.09.2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be0779072c63ad09",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb47922ec57137a1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6d61f2501ee0e4bb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "cd5949b4b5443549",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "aee0d4cc4472f19c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "83ace096b2eb9ddd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7b025dfc740eca91",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "📁 01 - Estudos/🧐 Faculdade/📐 Cálculo Diferencial e Integral/Limites de Funções - 02.09.25.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "01a8cc437ea41180",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "📁 00 - Rotina/Nota Modelo Rotina Diária.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "5e787acf6a079f56",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "📁 00 - Rotina/Nota Modelo Rotina Diária.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "24e6c6962707aa54",
+  "lastOpenFiles": [
+    "📁 00 - Rotina/🗃️ Log/04.09.2025.md",
+    "📁 00 - Rotina/📅 Rotina Semanal – Estudo, Trabalho e Pessoal.md",
+    "📁 00 - Rotina/🗃️ Log/08.09.2025.md",
+    "📁 00 - Rotina/Cursos Telegram - Semana.md",
+    "📁 00 - Rotina/Livros - Semana.md",
+    "📁 00 - Rotina/Sistema e Metas.md",
+    "Palavras Pokémon Esmeralda 04.09.25.md",
+    "📁 00 - Rotina/🗃️ Log/03.09.2025.md",
+    "📁 01 - Estudos/🧐 Faculdade/📐 Cálculo Diferencial e Integral/Limites de Funções - 02.09.25.md",
+    "📁 01 - Estudos/🧐 Faculdade/📐 Cálculo Diferencial e Integral/O que é função.md",
+    "📁 02 - Referências/Geral.md",
+    "templates/Modelo Referencia - Ideia.md",
+    "templates/📖 Estudo Tema - Disciplina - Livro.md",
+    "📁 00 - Rotina/🗃️ Log/02.09.2025.md",
+    "📁 00 - Rotina/🗃️ Log/01.09.2025.md",
+    "📁 01 - Estudos/🧐 Faculdade/📐 Cálculo Diferencial e Integral",
+    "📁 01 - Estudos/🧐 Faculdade",
+    "📁 01 - Estudos/📕 Livros/📊 Data Science para Negócios/29.08.25.md",
+    "📁 01 - Estudos/📕 Livros/📊 Data Science para Negócios/01.09.25.md",
+    "📁 01 - Estudos/📕 Livros/📊 Data Science para Negócios/Untitled.md",
+    "templates/Nota Modelo Rotina Semanal.md",
+    "📁 01 - Estudos/📨 Telegram/💸 Rotina para Enriquecer/28.08.25.md",
+    "templates/Nota Modelo Rotina Diária.md",
+    "templates",
+    "📁 00 - Rotina/🗃️ Log/Semana 1 (01.09 - 07.09).md",
+    "📁 01 - Estudos/Modelo Estudos - Ideia.md",
+    "📁 01 - Estudos/Como aprender algo.md",
+    "📁 00 - Rotina/🗃️ Log/29.08.2025.md",
+    "📁 01 - Estudos/📨 Telegram/📊 Master of Data Science",
+    "📁 00 - Rotina/🗃️ Log/28.08.2025.md",
+    "📁 01 - Estudos/📨 Telegram/💸 Rotina para Enriquecer",
+    "📁 00 - Rotina/🗃️ Log",
+    "📁 01 - Estudos/📕 Livros/🪰 Lord of The Flies",
+    "📁 01 - Estudos/📕 Livros/📐 Estatística Prática para Cientistas de Dados",
+    "📁 01 - Estudos/📕 Livros/📊 Data Science para Negócios",
+    "📁 01 - Estudos/📕 Livros"
+  ]
+}
