@@ -1,1 +1,0 @@
-Aqui na pasta referência é mais pra adicionar referências ou pensamentos aleatórios que surgirem durante o dia, recomendações de livros ou filmes, etc.
