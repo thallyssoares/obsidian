@@ -1,0 +1,31 @@
+---
+tags:
+  - youtube
+  - sql
+  - captura
+disciplina: SQL
+fonte: "[https://youtu.be/AYIEGnTtMsY?si=oYzwaDaFWREesAG-]"
+data: 16.09.2025
+---
+
+# Tópico: Day 2 - That SQL
+
+| Perguntas / Palavras-chave          | Anotações da Aula / Leitura                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| O que é uma tabela?                 | É um conjunto de valores organizados em linhas e colunas que juntos forma uma tabela e que cada linha dessa tabela representa uma entidade ou coisa. Por exemplo, uma tabela com colunas de nome, e-mail e senha com cada linha tendo um valor para cada coluna, cada linha dessa representa uma entidade que nesse caso seria um usuário. Assim, uma tabela serve para representar alguma coisa do mundo real e cada coluna é uma característica dessa coisa enquanto cada linha é essa coisa em si.                                                  |
+| O que é um banco de dados?          | O banco de dados é um conjunto de tabelas mas diferente das tabelas em si, ele não representa uma coisa mas sim um conjunto de coisas ou um sistema da vida real. Exemplo, um supermercado pode ser representado através das tabelas de um banco de dados, assim, cada coisa do supermercado vira uma tabela e o banco de dados representa agora o supermercado. Representa uma dinâmica do mundo real. Por representarem um sistema do mundo real, são tecnicamente chamados de SGBD (Sistema de Gerenciamento de Banco de Dados)                     |
+| Quais os principais tipos de SGBDs? | SQLite, MySQL, PostgreSQL, MariaDB, Microsoft SqlServer, Apache Spark e Oracle Database                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Quais IDEs principais para SQL?     | VS Code, Eclipse, Metabase, Pycharm, Databricks, Sublime Text, MySQL Workbench e DBeaver                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Por que usamos uma IDE para o SGDB? | O sistema de utilização do SQL não necessariamente precisa ser executado diretamente dentro do SGDB porque seria um trabalho mais complexo que o necessário, por isso usamos as IDEs que fazem uma ponte entre o SGDB e nós, passando nossos comandos e executando eles no SGDB e trazendo para nós o resultado, facilitando o fluxo de trabalho.                                                                                                                                                                                                      |
+| Registro                            | É a informação escrita nas linhas e colunas de um DB                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Instância de Banco de Dados         | A instância é como se fosse um notebook onde eu consigo ter várias coisas rodando dentro daquele notebook e ter outro notebook do lado dele rodando outras muitas coisas, quando eu desligo 1 ou quebro, fecho, o que seja, com um deles, não afeta o outro e vice versa, isso afeta apenas os programas e coisas que estavam acontecendo naquele notebook que eu mexi. A instância do banco de dados é igual, eu posso ter várias instâncias e cada uma delas rodando diferentes bancos de dados onde mexer em uma instância não influencia na outra. |
+|                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+---
+### Resumo Imediato (2-3 frases)
+
+### Tarefas / Exercícios
+- [ ] Não tem
+### Fila de Síntese para Recursos
+- [ ] Conceitos e Definição de Banco de Dados
+- [ ] Por que usar IDEs para acessar os SGBDs?

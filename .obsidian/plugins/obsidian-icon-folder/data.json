@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileStack",
       "🇺🇸",
       "🇩🇪",
       "LiLanguages",
-      "LiLayoutTemplate",
-      "LiLogs"
+      "LiLayoutTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,6 @@
   "templates": "LiLayoutTemplate",
   "01 - Projetos/Idiomas": "LiLanguages",
   "01 - Projetos/Idiomas/Alemão": "🇩🇪",
-  "01 - Projetos/Idiomas/Inglês": "🇺🇸"
+  "01 - Projetos/Idiomas/Inglês": "🇺🇸",
+  "01 - Projetos/Cursos": "LiFileStack"
 }
