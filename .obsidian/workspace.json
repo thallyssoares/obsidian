@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1d8af404504f9b63",
+        "id": "52e86e9c13e632f7",
         "type": "tabs",
         "children": [
           {
-            "id": "2b9451757be6e9c7",
+            "id": "9814a0f69f559bb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projetos/Cursos/Aprenda SQL - Teomewhy/Day 01 - First Concepts.md",
+                "file": "templates/Template - Nota Semanente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 01 - First Concepts"
+              "title": "Template - Nota Semanente"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 458.5
   },
   "right": {
     "id": "6f039bc139982aaa",
@@ -195,21 +194,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b9451757be6e9c7",
+  "active": "9814a0f69f559bb9",
   "lastOpenFiles": [
+    "templates/Template - Nota Permanente V2 (Zettelkasten).md",
+    "templates/Template - Nota Semanente.md",
+    "templates/Template - Nota Permanente (Zettelkasten).md",
+    "templates/Template - Nota de Aula V2 (Cornell).md",
+    "templates/Template - Nota de Aula (Cornell).md",
+    "templates/Template - Nota Diária.md",
+    "01 - Projetos/Faculdade/Matérias/Cálculo Diferencial e Integral/Derivada - Conceitos e Propriedades Operatórias.md",
+    "ORDEM DE SINTESE.md",
+    "01 - Projetos/Faculdade/Matérias/Introdução a Segurança da Informação/Ameaças e Vulnerabilidades à Segurança da Informação.md",
+    "03 - Recursos/Tecnologia/O que é um Malware.md",
+    "01 - Projetos/Faculdade/Matérias/Introdução a Segurança da Informação/Princípios da segurança e o ciclo de vida da informação.md",
+    "03 - Recursos/Tecnologia/O que é uma vulnerabilidade.md",
+    "03 - Recursos/Tecnologia",
+    "attatchment",
     "01 - Projetos/Cursos/Aprenda SQL - Teomewhy/Day 2 - That SQL.md",
     "01 - Projetos/Cursos/Aprenda SQL - Teomewhy/Day 01 - First Concepts.md",
+    "01 - Projetos/Faculdade/Matérias/Estatística Experimental e Amostragem/Aspectos Fundamentais de uma Pesquisa.md",
+    "01 - Projetos/Faculdade/Matérias/Cálculo Diferencial e Integral/Aula e Pré Aula - Limites de Funções - 02.09.25.md",
+    "HOME.md",
+    "02 - Áreas/Planejamento/📅 Rotina Semanal – Estudo, Trabalho e Pessoal.md",
     "01 - Projetos/Cursos/Aprenda SQL - Teomewhy",
     "01 - Projetos/Cursos",
-    "01 - Projetos/Faculdade/Matérias/Introdução a Segurança da Informação/Ameaças e Vulnerabilidades à Segurança da Informação.md",
-    "templates/Template - Nota Diária.md",
     "02 - Áreas/Logs/16.09.25.md",
-    "02 - Áreas/Planejamento/📅 Rotina Semanal – Estudo, Trabalho e Pessoal.md",
-    "HOME.md",
     "03 - Recursos/Matemática/Como fazer uma pesquisa.md",
-    "01 - Projetos/Faculdade/Matérias/Estatística Experimental e Amostragem/Aspectos Fundamentais de uma Pesquisa.md",
     "Palavras Pokémon Esmeralda 04.09.25.md",
-    "templates/Template - Nota de Aula (Cornell).md",
     "01 - Projetos/Idiomas/Inglês/Novas Palavras.md",
     "01 - Projetos/Idiomas/Alemão/Novas Palavras.md",
     "01 - Projetos/Idiomas/Inglês/Untitled",
@@ -218,20 +229,8 @@
     "01 - Projetos/Idiomas/Alemão",
     "01 - Projetos/Idiomas",
     "templates/Template - Nota Semanal.md",
-    "templates/Template - Nota Permanente (Zettelkasten).md",
     "templates/Teste.md",
-    "templates/Nota Modelo Rotina Semanal.md",
-    "templates/Nota Modelo Rotina Diária.md",
-    "templates/Modelo Referencia - Ideia.md",
-    "02 - Áreas/Logs/01.09.2025.md",
-    "02 - Áreas/Logs/02.09.2025.md",
-    "📁 00 - Rotina/Cursos Telegram - Semana.md",
-    "📁 00 - Rotina/Livros - Semana.md",
     "02 - Áreas/Logs",
-    "02 - Áreas/Planejamento",
-    "01 - Projetos/Faculdade/Matérias/Estatística Experimental e Amostragem",
-    "01 - Projetos/Faculdade/Matérias/Cálculo Diferencial e Integral",
-    "02 - Áreas/Logs/10.09.2025.md",
-    "📁 01 - Estudos/🧐 Faculdade/📐 Cálculo Diferencial e Integral/Untitled.md"
+    "02 - Áreas/Planejamento"
   ]
 }

@@ -32,6 +32,4 @@ data: 16.09.2025
 ### Tarefas / Exercícios
 - [ ] Não tem 
 ### Fila de Síntese para Recursos
-- [ ] Qual a diferença entre analista, cientista e engenheiro de dados?
-- [ ] Por que trabalhar com Dados?
-- [ ] Por que a área de dados tem crescido tanto?
+- [ ] Qual a diferença entre analista, cientista e engenheiro de dados? - 

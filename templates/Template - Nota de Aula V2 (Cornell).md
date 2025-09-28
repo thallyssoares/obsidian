@@ -1,7 +1,7 @@
 ---
-tags: [faculdade, captura, processar]
+tags: [faculdade, captura]
 disciplina: "[[Nome da Disciplina]]"
-fonte: "[Link para o vídeo/artigo ou Nome do Livro Cap. X]"
+fonte: ""
 data: "{{date}}"
 ---
 
@@ -12,13 +12,13 @@ data: "{{date}}"
 |                            |                             |
 |                            |                             |
 |                            |                             |
-|                            |                             |
-|                            |                             |
 
 ---
 ### Resumo Imediato (2-3 frases)
-
 ### Tarefas / Exercícios
-- [ ]
-### Fila de Síntese para Recursos
-- [ ] [[O que é um Ativo de Informação]]
+- [ ] 
+
+### Fila de Síntese Imediata ⚡
+- [ ] [[Título da Nota Semente 1]]
+- [ ] [[Título da Nota Semente 2]]
+- [ ] [[Título da Nota Semente 3]]

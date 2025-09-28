@@ -27,5 +27,5 @@ data: 16.09.2025
 ### Tarefas / Exercícios
 - [ ] Não tem
 ### Fila de Síntese para Recursos
-- [ ] Conceitos e Definição de Banco de Dados
-- [ ] Por que usar IDEs para acessar os SGBDs?
+- [ ] Conceitos e Definição de Banco de Dados -
+- [ ] Por que usar IDEs para acessar os SGBDs? -

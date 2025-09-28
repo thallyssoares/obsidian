@@ -40,9 +40,9 @@ Ameaças são possibilidades de ataques que visam explorar fraquezas ou vulnerab
 ### Tarefas / Exercícios
 - [x] Exercícios da Plataforma
 ### Fila de Síntese para Recursos
-- [ ] O que é um Malware?
-- [ ] Quais os tipos de Malwares que existem?
-- [ ] Ameaça dentro do contexto de Segurança da Informação
-- [ ] O que é uma vulnerabilidade
-- [ ] Quais tipos de vulnerabilidades existem
-- [ ] Definição e Exemplos de Ativos
+- [ ] O que é um Malware? -
+- [ ] Quais os tipos de Malwares que existem? -
+- [ ] Ameaça dentro do contexto de Segurança da Informação -
+- [ ] O que é uma vulnerabilidade - 
+- [ ] Quais tipos de ameaças existem - 
+- [ ] Definição e Exemplos de Ativos -

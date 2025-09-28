@@ -1,3 +1,4 @@
+
 > [!quote] "Um sistema de organização só funciona quando reflete a forma como você pensa."
 > ---
 
