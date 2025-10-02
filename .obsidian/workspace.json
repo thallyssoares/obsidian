@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd748e014c91b381",
+        "id": "5af448194426b2b0",
         "type": "tabs",
         "children": [
           {
-            "id": "506a26c14fd7b2aa",
+            "id": "538aeee072b9b98a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/Template - Nota de Aula V2 (Cornell).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Template - Nota de Aula V2 (Cornell)"
             }
           }
         ]
@@ -177,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 358
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,26 +194,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "3a1866568caad536",
+  "active": "538aeee072b9b98a",
   "lastOpenFiles": [
+    "templates/Template - Nota Diária.md",
+    "templates/Template - Nota Semente.md",
+    "templates/Template - Nota Semanal.md",
+    "templates/Template - Nota Permanente V2 (Zettelkasten).md",
+    "templates/Template - Nota de Aula V2 (Cornell).md",
+    "03 - Recursos/Python/Aplicando funções elaboradas no Pandas.md",
+    "03 - Recursos/Python/Filtrando e criando novos data frames no Pandas.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "01 - Projetos/Faculdade/Matérias/Introdução a Segurança da Informação/Princípios da segurança e o ciclo de vida da informação.md",
-    "01 - Projetos/Cursos/Pandas/Mini Projetos/Aplicando funções elaboradas no Pandas.md",
     "01 - Projetos/Cursos/Pandas/Mini Projetos/Análise de Padrões no Brasileirão.md",
     "03 - Recursos/Python/Como criar novas colunas dentro de um data frame do Pandas.md",
-    "03 - Recursos/Python/Filtrando e criando novos data frames no Pandas.md",
     "ORDEM DE SINTESE.md",
     "01 - Projetos/Cursos/Pandas/Mini Projetos",
     "01 - Projetos/Cursos/Pandas",
     "01 - Projetos/Cursos/Master of Data Science/03 - Introdução a DSA (O que envolve DS).md",
-    "templates/Template - Nota Semente.md",
     "01 - Projetos/Cursos/Master of Data Science",
     "01 - Projetos/Cursos/Data Science Academy",
-    "templates/Template - Nota Permanente V2 (Zettelkasten).md",
-    "templates/Template - Nota Semanal.md",
     "templates/Template - Nota Permanente (Zettelkasten).md",
-    "templates/Template - Nota de Aula V2 (Cornell).md",
     "templates/Template - Nota de Aula (Cornell).md",
-    "templates/Template - Nota Diária.md",
     "01 - Projetos/Faculdade/Matérias/Cálculo Diferencial e Integral/Derivada - Conceitos e Propriedades Operatórias.md",
     "01 - Projetos/Faculdade/Matérias/Introdução a Segurança da Informação/Ameaças e Vulnerabilidades à Segurança da Informação.md",
     "03 - Recursos/Tecnologia/O que é um Malware.md",
@@ -224,9 +230,6 @@
     "02 - Áreas/Planejamento/📅 Rotina Semanal – Estudo, Trabalho e Pessoal.md",
     "01 - Projetos/Cursos/Aprenda SQL - Teomewhy",
     "01 - Projetos/Cursos",
-    "02 - Áreas/Logs/16.09.25.md",
-    "03 - Recursos/Matemática/Como fazer uma pesquisa.md",
-    "01 - Projetos/Idiomas/Inglês/Untitled",
-    "01 - Projetos/Idiomas/Inglês"
+    "02 - Áreas/Logs/16.09.25.md"
   ]
 }

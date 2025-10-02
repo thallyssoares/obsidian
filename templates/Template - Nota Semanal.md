@@ -2,7 +2,6 @@
 tags: [semanal, planejamento]
 semana: "{{date:YYYY}}-W{{date:WW}}"
 ---
-
 ## Semana de {{date:DD/MM}} a {{date+6d:DD/MM}}
 
 ### Revisão da Semana Anterior

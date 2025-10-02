@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 6059356
       }
+    },
+    {
+      "query": "tag:#captura  ",
+      "color": {
+        "a": 1,
+        "rgb": 13695981
+      }
+    },
+    {
+      "query": "tag:#conceito  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
