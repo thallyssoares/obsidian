@@ -9,28 +9,21 @@
 >[!info] Este é o manual do meu cérebro digital. Ele segue o método PARA para transformar caos em clareza.
 
 #### 1. Projetos
-- **O que são para mim:** _(Escreva com suas palavras. Ex: "São meus esforços ativos com começo, meio e fim. Cursos com prazo, trabalhos da faculdade, etc. É aqui que a 'ação' acontece.")_
-- **Quando usar:** _(Ex: "Quando inicio um novo curso ou recebo um novo trabalho da faculdade.")_
+- **O que são para mim:** _São esforços ou preparos que possuem um fim ou uma data de término, geralmente as coisas que estou fazendo ou focando no momento_
+- **Quando usar:** _Sempre que iniciar um novo curso, fizer algum trabalho da faculdade ou matéria, etc_
 
 #### 2. Áreas
-- **O que são para mim:** _(Ex: "São as grandes áreas da minha vida que eu gerencio continuamente. Saúde, Finanças, Faculdade (como um todo), Desenvolvimento Pessoal. Não têm um 'fim'.")_
-- **Quando usar:** _(Ex: "Para guardar meus planejamentos semanais, metas anuais, e anotações sobre hábitos.")_
+- **O que são para mim:** _São as áreas da minha vida que não tem um fim, anotações relacionadas ao dia a dia e as minhas metas_
+- **Quando usar:** _Para organizar minha rotina diária, semanal e mensal além das metas / objetivos_
 
 #### 3. Recursos
-- **O que são para mim:** _(Ex: "Minha biblioteca pessoal, minha 'despensa'. Aqui fica o conhecimento puro e atemporal sobre os tópicos que me interessam: Python, SQL, Idiomas, etc.")_
-- **Quando usar:** _(Ex: "Após sintetizar uma nota de aula ou aprender algo novo, eu crio uma nota permanente aqui.")_
+- **O que são para mim:** _Meu acervo de conhecimento resumido onde anoto ideias, insights ou explicações de tópicos de uma forma que eu revise sempre que precisar_
+- **Quando usar:** _Sempre que finalizo uma nota dos projetos, crio subnotas com resumos curtos e diretos dos tópicos da nota principal_
 
 #### 4. Arquivo
-- **O que é para mim:** _(Ex: "O cemitério de itens inativos. Projetos concluídos e áreas que não são mais relevantes vêm para cá para manter o sistema limpo.")_
-- **Quando usar:** _(Ex: "Ao final de cada semestre ou quando concluo um grande projeto.")_
+- **O que é para mim:** _Onde guardo projetos finalizados_
+- **Quando usar:** _Ao final de cada semestre ou fim de curso / projeto_
 
 ---
 
 ## 🎯 Projetos Ativos Atualmente
-
-```dataview
-TABLE dateformat(file.ctime, "dd/MM/yyyy") AS "Data de Início"
-FROM "1. Projetos"
-WHERE file.folder != "1. Projetos"
-SORT file.ctime DESC
-´´´

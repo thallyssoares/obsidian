@@ -1,25 +1,31 @@
-# Metas por Áreas
+# Áreas 
 
-Saúde: Emagrecer 10kg
-Financeiro: Ter 10k guardados
-Relacionamento: Ser um bom marido/namorado
-Mente: Se livrar dos vícios
-Carreira: Se tornar um Cientista de Dados Junior
+- Financeira
+- Saúde
+- Trabalho
 
+## Metas por Áreas
+Financeira:
+	Ter uma reserva / patrimônio de R$ 1k guardado em renda fixa (Algo que me renda 100% do CDI e com liquidez diária) e ter R$ 500 investido em stablecoins.
+Saúde:
+	Diminuir 5kg do meu peso atual que eu não faço ideia de qual seja
+Trabalho:
+	Ser promovido para especialista e conseguir aplicar técnicas / conhecimentos da ciência de dados no meu dia a dia.
+	Finalizar a criação do meu micro-saas de análise de dados para gestores de tráfego
 
-# Sistemas para as metas
+### Sistema para as Metas
+Financeira:
+	Quitar minhas dividas do cartão, 
+	Diminuir os gastos desnecessários e
+	Sair com a minha esposa de maneira consciente 
+	Estudar 3x na semana sobre o sistema financeiro e criptomoedas
+Saúde:
+	Correr 3x na semana
+	Me alimentar de maneira consciente, diminuindo as comidas ruins
+Trabalho:
+	Estudar 3x na semana sobre a área de dados
+	Realizar 1 projeto de análise de dados por semana
+	Estudar 5x na semana os conteúdos da faculdade
+	2x na semana desenvolver partes do projeto do micro-saas
 
-## Saúde
-Ir para a academia 5 vezes na semana, fazer cardio 1 vez todo sábado pela manhã, diminuir meu consumo de carboidratos em excesso.
-
-## Financeiro
-Ainda não sei
-
-## Relacionamento
-Dedicar os finais de semana para ter tempo de qualidade com a Taís, assistindo um filme com ela e coisas que ela gosta, usando menos o celular e fazendo atividades em conjunto além de sempre tentar sair para algum lugar ou realizar uma atividade diferente.
-
-## Mente
-Diminuir o consumo a cada semana e compreender melhor os gatilhos para controla-los até o ponto de se livrar completamente.
-
-## Carreira
-Estudar data science todos os dias da semana, lendo um livro da área, vendo um curso do telegram ou assistindo as aulas da faculdade. Focando em estudar de verdade pelo menos 1hr por dia.
+A ideia de todo esse sistema é construir minha rotina diária de maneira que eu faça essas coisas e me aproxime das minhas metas.

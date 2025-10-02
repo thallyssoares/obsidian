@@ -1,6 +1,7 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "attatchment",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true
 }
