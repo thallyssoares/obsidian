@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "attatchment",
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "spellcheck": true
 }
