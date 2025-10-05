@@ -2,7 +2,7 @@
 tags: [semanal, planejamento]
 semana: "{{date:YYYY}}-W{{date:WW}}"
 ---
-## Semana de {{date:DD/MM}} a {{date+6d:DD/MM}}
+## {{title}} - Criado em {{date: DD/MM}}
 
 ### Revisão da Semana Anterior
 - **Conquistas:** - **Desafios:** ### Metas Para Esta Semana
