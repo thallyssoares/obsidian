@@ -42,6 +42,6 @@ Hipoteses
 
 ```
 ### Fila de Síntese Imediata ⚡
-- [ ] [[Como criar novas colunas dentro de um data frame do Pandas]]
-- [ ] [[Filtrando e criando novos data frames no Pandas]]
-- [ ] [[Aplicando funções elaboradas no Pandas]]
+- [x] [[Como criar novas colunas dentro de um data frame do Pandas]]
+- [x] [[Filtrando e criando novos data frames no Pandas]]
+- [x] [[Aplicando funções elaboradas no Pandas]]
